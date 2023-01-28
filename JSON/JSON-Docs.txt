@@ -1,0 +1,12 @@
+   ##=> SON (JavaScript object notation)  <==##
+
+
+JSON.parse() => It will coverts valid JSON into Javascript Object.
+
+=> It's a format to store and transport data.
+
+=> JSON - Used for Data transportation
+
+=> JSON.parse() - it will give the object in string.
+
+=> JSON.object() => convert the string into Object.
